@@ -142,13 +142,6 @@ public class Wordle {
                      	break;
                      } 
                  }
-//    		 if(!isUsed[i]){
-//    			 if(guess)
-//    			 isUsed[position ]=true;
-//    			 switch(colorCode){
-//    				case 0:gw.setKeyColor(c,WordleGWindow.CORRECT_COLOR );break;
-//    				case 1:gw.setKeyColor(c, WordleGWindow.PRESENT_COLOR);break;
-//    				case 2:gw.setKeyColor(c, WordleGWindow.MISSING_COLOR);break;
     			}//end of innerfor
     		   }//end of outerfor
     	
